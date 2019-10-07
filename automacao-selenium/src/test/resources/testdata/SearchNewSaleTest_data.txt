@@ -1,0 +1,2 @@
+client	saleDate	paymentType	paymentMaturityDate	quantityItens	discountType	discountValue	freightValue	invalidSendKeys	clientInvalid
+Dário B P Junior	<HOJE>	À vista	<HOJE+1>	1	%	10	10	$@!DSAF!@!@EASDASD!@$	Não aparecer na listagem

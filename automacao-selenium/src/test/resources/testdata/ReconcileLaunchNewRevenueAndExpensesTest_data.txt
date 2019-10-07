@@ -1,0 +1,2 @@
+incomeName	value	bankAccount	expirationDate	incomeCategory	received	conta	arquivo
+Teste1	100,00	Banco do Brasil	<HOJE>	Ajuste Caixa	BLANK	Santander	OFX_ContaBancaria.ofx

@@ -1,0 +1,4 @@
+expenseName	value	bankAccount	expirationDate	incomeCategory	paid	repeat	customer	competenceDate	costCenter	observations	attachment
+Teste de cadastro	777,00	Bradesco	<HOJE>	Ajuste Caixa	true	false	Blank	Blank	Blank	Blank	Blank
+Teste de cadastro2	577,00	Bradesco	<HOJE+1>	Ajuste Caixa	false	false	Blank	Blank	Blank	Blank	Blank
+Teste de cadastro3	677,00	Banco do Brasil	<HOJE-1>	Ajuste Caixa	true	false	Blank	Blank	Blank	Blank	Blank

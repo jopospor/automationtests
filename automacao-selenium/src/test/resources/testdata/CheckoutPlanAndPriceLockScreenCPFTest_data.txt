@@ -1,0 +1,5 @@
+cepNumber	numeroCasa	telefone	email	cpfNumber	nomeCompleto
+BLANK	86	4796217545	Testes@ca.com	07922134916	Teste
+89225760	BLANK	4796217545	Testes@ca.com	07922134916	Teste
+BLANK	BLANK	BLANK	BLANK	BLANK	Teste
+BLANK	BLANK	BLANK	BLANK	BLANK	BLANK

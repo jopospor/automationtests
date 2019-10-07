@@ -1,0 +1,2 @@
+client	saleNumber	saleDate	paymentType	paymentMaturityDate	quantityItens	discountType	discountValue	freightValue	editItem	editItemDesc	editItemQuantity	editItemPrice	editDiscountType	editDiscountValue	editFreightValue	editClient	editSaleNumber	editSaleDate	editPaymentType	editPaymentMaturityDate	editQuantityItens
+Cliente Teste	Blank	Blank	À vista	<HOJE+20>	1	R$	10	1	Blank	Desc Item alterada	4	100	%	5	0	Cliente Alterado	3	<HOJE+10>	À vista	<HOJE+60>	1

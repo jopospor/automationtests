@@ -1,0 +1,42 @@
+topMenu	subCategory	link	breadcrumb
+Vendas	Produtos	Propostas Comerciais	Início › Proposta comercial de produto 
+Vendas	Produtos	Pedidos de Venda	Início › Pedido de venda
+Vendas	Produtos	Vendas de Produtos	Início › Venda de produto
+Vendas	Produtos	Emitir NF-e	Início › Nota fiscal eletrônica de produto 
+Vendas	Produtos	Produtos	Início › Produto
+Vendas	Serviços	Propostas Comerciais	Início › Proposta comercial de serviço
+Vendas	Serviços	Vendas de Serviços	Início › Venda de serviço
+Vendas	Serviços	Contratos de Venda	Início › Contrato de venda
+Vendas	Serviços	Serviços	Início › Serviço
+Vendas	Cadastros 	Clientes 	Início › Cliente
+Vendas	Cadastros 	Produtos	Início › Produto
+Vendas	Cadastros 	Fornecedores	Início › Fornecedor
+Vendas	Cadastros 	Transportadora	Início › Transportadora
+Vendas	Cadastros 	Serviços	Início › Serviço
+Vendas	Cadastros 	Vendedores	Início › Vendedor
+Vendas	Cadastros 	Lista de Preços	Início › Lista de preço
+Vendas	Cadastros 	Comissão de Vendedores	Início › Comissão de vendedor 
+Estoque	Compras	Pedidos de Compra	Início › Pedido de compra
+Estoque	Compras	Compras	Início › Compra
+Estoque	Compras	Emitir NF-e de Entrada	Início › Nota fiscal eletrônica de entrada
+Estoque	Compras	Produtos	Início › Produto
+Estoque	Cadastros	Produtos	Início › Produto
+Estoque	Cadastros	Fornecedores	Início › Fornecedor
+Estoque	Cadastros	Transportadora	Início › Transportadora
+Estoque	Cadastros	Estoque	Início › Estoque
+Financeiro	Movimentações	Extrato	Início › Financeiro › Extrato
+Financeiro	Movimentações	Contas a Pagar	Início › Financeiro › Contas a pagar
+Financeiro	Movimentações	Contas a Receber	Início › Financeiro › Contas a receber
+Financeiro	Movimentações	Fluxo de Caixa	Início › Financeiro › Fluxo de caixa
+Financeiro	Movimentações	Importar Extrato	Início › Financeiro › Importar extrato
+Financeiro	Organizar	Contas bancárias	Início › Financeiro › Contas bancárias
+Relatórios	Financeiro	Demonstrativo	Início › Relatórios › Demonstrativo
+Relatórios	Financeiro	Análise de despesas	Início › Relatórios › Análise de despesas
+Relatórios	Financeiro	Análise centro de custo	Início › Relatórios › Análise de centro de custo
+Relatórios	Financeiro	Lançamentos financeiros	Início › Relatórios › Lançamentos no caixa
+Relatórios	Vendas	Faturamento por cliente	Início › Relatórios › Faturamento por cliente
+Relatórios	Vendas	Produtos mais vendidos	Início › Relatórios › Produtos mais vendidos
+Relatórios	Vendas	Vendas por vendedor	Início › Relatórios › Vendas por vendedor
+Relatórios	Vendas	Vendas por cliente	Início › Relatórios › Vendas por cliente
+Relatórios	Vendas	Clientes por vendedor	Início › Relatórios › Clientes por vendedor
+Relatórios	Vendas	Clientes	Início › Relatórios › Clientes

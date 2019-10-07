@@ -1,0 +1,2 @@
+client	saleNumber	saleDate	paymentType	paymentMaturityDate	quantityItens	discountType	discountValue	freightValue	editQuantityItens	editItem	editItemDesc	editItemQuantity	editItemPrice	editDiscountType	editDiscountValue	editFreightValue	observation	bankAccount	received
+Nome do Cliente	Blank	<HOJE>	À vista	<HOJE+30>	2	0%	10	Blank	Blank	Blank	Editando Descrição 123	4	250	Blank	0	0	Alguma Observação!!##!#	Conta corrente	TRUE

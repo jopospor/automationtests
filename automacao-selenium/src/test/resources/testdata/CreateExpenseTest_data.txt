@@ -1,0 +1,11 @@
+expenseName	value	bankAccount	expirationDate	incomeCategory	paid	repeat	customer	competenceDate	costCenter	observations	attachment	$result	transaction
+Blank	Blank	Blank	<HOJE>	Blank	TRUE	FALSE	Blank	Blank	Blank	Blank	Blank	#ERROR_REQUIRED_FIELDS	Blank
+Teste de campo obrigatoriu	Blank	Blank	<HOJE>	Blank	TRUE	FALSE	Blank	Blank	Blank	Blank	Blank	#ERROR_REQUIRED_FIELDS	Blank
+Teste de campo obrigatoriu	777	Blank	<HOJE>	Blank	TRUE	FALSE	Blank	Blank	Blank	Blank	Blank	#ERROR_REQUIRED_FIELDS	Blank
+Teste de campo obrigatoriu	777	Tesouraria	<HOJE>	Blank	TRUE	FALSE	Blank	Blank	Blank	Blank	Blank	#ERROR_REQUIRED_FIELDS	Blank
+Teste de campo obrigatoriu	777,00	Tesouraria	Blank	Blank	TRUE	FALSE	Blank	Blank	Blank	Blank	Blank	#ERROR_REQUIRED_FIELDS	Blank
+Teste de sucesso	777,00	Tesouraria	<HOJE>	Ajuste Caixa	TRUE	FALSE	Blank	Blank	Blank	Blank	Blank	#SUCCESS	Blank
+Teste Lancamento Passado	777,00	Tesouraria	<HOJE-1>	Ajuste Caixa	TRUE	FALSE	Blank	Blank	Blank	Blank	Blank	#SUCCESS	Blank
+Teste Lancamento Futuro	777,00	Tesouraria	<HOJE+1>	Ajuste Caixa	TRUE	FALSE	Blank	Blank	Blank	Blank	Blank	#SUCCESS	Blank
+Cadastro completo	777,00	Tesouraria	<HOJE>	Ajuste Caixa	TRUE	FALSE	Conta Azul LTDA	<HOJE>	Centro 001	Cadastro com todos os campos	Blank	#SUCCESS	Blank
+Teste Despesa Estornada	777,00	Tesouraria	20/06/2016	Ajuste Caixa	FALSE	FALSE	Blank	Blank	Blank	Blank	Blank	#SUCCESS	Blank

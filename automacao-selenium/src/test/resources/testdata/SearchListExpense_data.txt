@@ -1,0 +1,2 @@
+Pesquisa1	Pesquisa2
+Despesa vencimento atual não paga	Despesa vencimento atual paga

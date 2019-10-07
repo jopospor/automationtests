@@ -1,0 +1,3 @@
+﻿incomeName	value	bankAccount	expirationDate	incomeCategory	received	repeat	customer	competenceDate	costCenter	observations	attachment
+Alteracao das receitas em lote	777,00	Banco do Brasil	<HOJE>	Aplicacoes Financeiras	true	false	Conta Azul LTDA	<HOJE>	C. C. 0001	Teste de edicao de receita em lote	Blank
+Receita para teste em lote	125,00	Banco do Brasil	<HOJE>	Ajuste Caixa	true	false	Blank	<HOJE>	Blank	Blank	Blank

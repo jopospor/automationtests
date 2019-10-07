@@ -1,0 +1,3 @@
+﻿fileName	bankAccount	$result	newAccount
+OFX_ContaBancaria.ofx	Banco do Brasil	Extrato bancário importado com sucesso!	sim
+OFX_CartaoCredito.ofx	Banco Bradesco	Extrato bancário importado com sucesso!	sim

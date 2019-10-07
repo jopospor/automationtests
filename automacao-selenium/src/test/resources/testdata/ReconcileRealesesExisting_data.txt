@@ -1,0 +1,2 @@
+﻿conta	arquivo	nrLine
+Banco do Brasil	OFX_ContaBancaria.ofx	1

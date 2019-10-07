@@ -1,0 +1,12 @@
+﻿<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite de Regressão Completa do ContaAzul" verbose="1"
+	parallel="false">
+
+	<test name="Emissão de nota fiscal nacional simples">
+		<classes>
+			<parameter name="filePath" value="CreateNfeTest_data.txt" />
+			<class name="com.contaazul.auto.selenium.fiscal.testcases.CreateNfeTest" />
+		</classes>
+	</test>
+
+</suite>

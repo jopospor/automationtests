@@ -1,0 +1,4 @@
+client	saleNumber	saleDate	paymentType	paymentMaturityDate	quantityItens	qtd	discountType	discountValue	freightValue	typeItem	editPaymentType
+ContaAzul	Blank	<HOJE>	À vista	<HOJE+2>	1	1	%	10	10	0	Parcelado em 4x
+ContaAzul	Blank	<HOJE>	À vista	<HOJE+2>	1	1	%	10	10	1	Parcelado em 4x
+ContaAzul	Blank	<HOJE>	À vista	<HOJE+2>	1	2	%	10	10	1	Parcelado em 4x

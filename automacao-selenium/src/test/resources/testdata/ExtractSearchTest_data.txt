@@ -1,0 +1,2 @@
+﻿dtAtual	pesquisar	nomeReceita	valor	nomeBanco	categoria	cliente	dtEmissao	centroDeCusto	observacao	dtVencimento	categorias	CentroDeCusto	ClientesFornecedores	Descricao
+<HOJE>	Teste de pesquisa avançada	Teste de pesquisa avançada	1000,00	Bradesco	Ajuste Caixa	Conta Azul LTDA	<HOJE>	Centro002	Receita para teste de pesquisa avançada	<HOJE>	Ajuste Caixa	Centro002	Conta Azul LTDA	Teste de pesquisa avançada 

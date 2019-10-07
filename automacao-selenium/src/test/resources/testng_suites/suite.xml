@@ -1,0 +1,11 @@
+﻿<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite de Testes do Projeto de Automacao" verbose="1"
+	parallel="false">
+	<test name="CreateTransferFromOfxFileTest">
+		<classes>
+			<parameter name="filePath" value="CreateTransferFromOfxFileTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.CreateTransferFromOfxFileTest" />
+		</classes>
+	</test>
+</suite>

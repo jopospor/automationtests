@@ -1,0 +1,11 @@
+﻿incomeName	value	bankAccount	expirationDate	incomeCategory	received	repeat	customer	competenceDate	costCenter	observations	attachment	$result	transaction
+Blank	Blank	Blank	<HOJE>	Blank	TRUE	FALSE	Blank	Blank	Blank	Blank	Blank	#ERROR_REQUIRED_FIELDS	TRUE
+Teste de campo obrigatorio	Blank	Blank	<HOJE>	Blank	TRUE	FALSE	Blank	Blank	Blank	Blank	Blank	#ERROR_REQUIRED_FIELDS	TRUE
+Teste de campo obrigatorio	777,77	Blank	<HOJE>	Blank	TRUE	FALSE	Blank	Blank	Blank	Blank	Blank	#ERROR_REQUIRED_FIELDS	TRUE
+Teste de campo obrigatorio	777,77	Tesouraria	<HOJE>	Blank	TRUE	FALSE	Blank	Blank	Blank	Blank	Blank	#ERROR_REQUIRED_FIELDS	TRUE
+Teste de campo obrigatorio	777,77	Tesouraria	Blank	Blank	TRUE	FALSE	Blank	Blank	Blank	Blank	Blank	#ERROR_REQUIRED_FIELDS	TRUE
+Teste de sucesso	777,77	Tesouraria	<HOJE>	Vendas	TRUE	FALSE	Blank	Blank	Blank	Blank	Blank	#SUCCESS	TRUE
+Teste Lancamento Passado	777,77	Tesouraria	<HOJE-1>	Vendas	TRUE	FALSE	Blank	Blank	Blank	Blank	Blank	#SUCCESS	TRUE
+Teste Lancamento Futuro	777,77	Tesouraria	<HOJE+1>	Vendas	TRUE	FALSE	Blank	Blank	Blank	Blank	Blank	#SUCCESS	TRUE
+Cadastro completo	777,77	Tesouraria	<HOJE>	Vendas	TRUE	FALSE	Conta Azul LTDA	<HOJE>	Centro 001	Cadastro com todos os campos	Blank	#SUCCESS	TRUE
+Teste Receita Estornada	777,77	Tesouraria	20/06/2016	Vendas	FALSE	FALSE	Blank	Blank	Blank	Blank	Blank	#SUCCESS	TRUE

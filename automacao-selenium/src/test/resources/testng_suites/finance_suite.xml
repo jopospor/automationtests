@@ -1,0 +1,320 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite de Regressão do Financeiro do ContaAzul"
+	verbose="1" parallel="tests" thread-count="5">
+
+	<test name="BankAccountSearchTest">
+		<classes>
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.BankAccountSearchTest" />
+		</classes>
+	</test>
+
+	<test name="ConfigureBankAccountTest">
+		<classes>
+			<parameter name="filePath" value="ConfigureBankAccountTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.ConfigureBankAccountTest" />
+		</classes>
+	</test>
+
+	<test name="CreateBankAccountTest">
+		<classes>
+			<parameter name="filePath" value="CreateBankAccountTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.CreateBankAccountTest" />
+		</classes>
+	</test>
+
+	<test name="CreateExpenseTest">
+		<classes>
+			<parameter name="filePath" value="CreateExpenseTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.CreateExpenseTest" />
+		</classes>
+	</test>
+
+	<test name="CreateIncomeContinueTest">
+		<classes>
+			<parameter name="filePath" value="CreateIncomeContinueTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.CreateIncomeContinueTest" />
+		</classes>
+	</test>
+
+	<test name="CreateIncomeTest">
+		<classes>
+			<parameter name="filePath" value="CreateIncomeTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.CreateIncomeTest" />
+		</classes>
+	</test>
+
+	<test name="CreateTransferFromOfxFileTest">
+		<classes>
+			<parameter name="filePath" value="CreateTransferFromOfxFileTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.CreateTransferFromOfxFileTest" />
+		</classes>
+	</test>
+
+	<test name="CreateTransferTest">
+		<classes>
+			<parameter name="filePath" value="CreateTransferTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.CreateTransferTest" />
+		</classes>
+	</test>
+
+	<test name="DatePeriodSearchTest">
+		<classes>
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.DatePeriodSearchAccountsReceivableTest" />
+		</classes>
+	</test>
+
+	<test name="DeleteExpenseTest">
+		<classes>
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.DeleteExpenseTest" />
+		</classes>
+	</test>
+
+	<test name="DeleteRevenueTest">
+		<classes>
+			<parameter name="filePath" value="DeleteRevenueTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.DeleteRevenueTest" />
+		</classes>
+	</test>
+
+	<test name="DeleteTransferTest">
+		<classes>
+			<parameter name="filePath" value="DeleteTransferTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.DeleteTransferTest" />
+		</classes>
+	</test>
+
+	<test name="EditAccountTest">
+		<classes>
+			<parameter name="filePath" value="EditAccount_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.EditAccountTest" />
+		</classes>
+	</test>
+
+	<test name="EditExpenseBatchTest">
+		<classes>
+			<parameter name="filePath" value="EditRevenueBatchTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.EditExpenseBatchTest" />
+		</classes>
+	</test>
+
+	<test name="EditExpenseInlineTest">
+		<classes>
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.EditExpenseInlineTest" />
+		</classes>
+	</test>
+
+	<test name="EditExpenseTest">
+		<classes>
+			<parameter name="filePath" value="EditExpenseTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.EditExpenseTest" />
+		</classes>
+	</test>
+
+	<test name="EditRevenueBatchTest">
+		<classes>
+			<parameter name="filePath" value="EditRevenueBatchTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.EditRevenueBatchTest" />
+		</classes>
+	</test>
+
+	<test name="EditRevenueInlineTest">
+		<classes>
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.EditRevenueInlineTest" />
+		</classes>
+	</test>
+
+	<test name="EditRevenueTest">
+		<classes>
+			<parameter name="filePath" value="EditRevenueTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.EditRevenueTest" />
+		</classes>
+	</test>
+
+	<test name="EditReversedExpenseBatchTest">
+		<classes>
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.EditReversedExpenseBatchTest" />
+		</classes>
+	</test>
+
+	<test name="EditTransferTest">
+		<classes>
+			<parameter name="filePath" value="EditTransferTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.EditTransferTest" />
+		</classes>
+	</test>
+
+	<test name="ExtractSearchTest">
+		<classes>
+			<parameter name="filePath" value="ExtractSearchTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.ExtractSearchTest" />
+		</classes>
+	</test>
+
+	<test name="FinanceSearchTest">
+		<classes>
+			<parameter name="filePath" value="FinanceSearchTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.FinanceSearchTest" />
+		</classes>
+	</test>
+
+	<test name="FindAndListEntriesConcilingTest">
+		<classes>
+			<parameter name="filePath" value="FindAndListEntriesConcilingTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.FindAndListEntriesConcilingTest" />
+		</classes>
+	</test>
+
+	<test name="ImportBankExtract">
+		<classes>
+			<parameter name="filePath" value="ImportExtractTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.ImportBankExtract" />
+		</classes>
+	</test>
+
+	<test name="ImportTransferLotFinanceTest">
+		<classes>
+			<parameter name="filePath" value="ImportTransferLotFinanceTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.ImportTransferLotFinanceTest" />
+		</classes>
+	</test>
+
+	<test name="IncomeAdvancedSearchTest">
+		<classes>
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.IncomeAdvancedSearchTest" />
+		</classes>
+	</test>
+
+	<test name="NewExpenseCategoryTest">
+		<classes>
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.ExpenseCategoryTest" />
+		</classes>
+	</test>
+
+	<test name="NewExpenseEditCategoryTest">
+		<classes>
+			<parameter name="filePath" value="NewExpenseEditCategoryTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.NewExpenseEditCategoryTest" />
+		</classes>
+	</test>
+
+	<test name="NewIncomeCategoryTest">
+		<classes>
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.NewIncomeCategoryTest" />
+		</classes>
+	</test>
+
+	<test name="NewIncomeEditCategoryTest">
+		<classes>
+			<parameter name="filePath" value="NewIncomeEditCategoryTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.NewIncomeEditCategoryTest" />
+		</classes>
+	</test>
+
+	<test name="PrintBankSlipInLineTest">
+		<classes>
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.PrintBankSlipInLineTest" />
+		</classes>
+	</test>
+
+	<test name="ReconcileLaunchNewRevenueAndExpensesTest">
+		<classes>
+			<parameter name="filePath"
+				value="ReconcileLaunchNewRevenueAndExpensesTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.ReconcileLaunchNewRevenueAndExpensesTest" />
+		</classes>
+	</test>
+
+	<test name="ReconcileRealesesExistingTest">
+		<classes>
+			<parameter name="filePath" value="ReconcileRealesesExisting_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.ReconcileRealesesExistingTest" />
+		</classes>
+	</test>
+
+	<test name="RegisterExpenseWithAttached">
+		<classes>
+			<parameter name="filePath" value="RegisterExpenseWithAttached_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.RegisterExpenseWithAttached" />
+		</classes>
+	</test>
+
+	<test name="RegisterRevenueWithAttached">
+		<classes>
+			<parameter name="filePath" value="RegisterRevenueWithAttached_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.RegisterRevenueWithAttached" />
+		</classes>
+	</test>
+
+	<test name="RemoveIncomeCategoryTest">
+		<classes>
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.RemoveIncomeCategoryTest" />
+		</classes>
+	</test>
+
+	<test name="SearchListExpenseTest">
+		<classes>
+			<parameter name="filePath" value="SearchListExpense_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.SearchListExpenseTest" />
+		</classes>
+	</test>
+
+	<test name="SearchListTransferTest">
+		<classes>
+			<parameter name="filePath" value="SearchListTransferTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.SearchListTransferTest" />
+		</classes>
+	</test>
+
+	<test name="SimpleSearchTest">
+		<classes>
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.SimpleSearchTest" />
+		</classes>
+	</test>
+
+	<test name="TypeSituationSearchTest">
+		<classes>
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.TypeSituationSearchTest" />
+		</classes>
+	</test>
+</suite>

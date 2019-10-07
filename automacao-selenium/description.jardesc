@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="datadriven-auto.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/datadriven-auto/description.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="/datadriven-auto/manifest" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/datadriven-auto/Mini backlog.txt"/>
+        <javaElement handleIdentifier="=datadriven-auto/src\/main\/java"/>
+        <file path="/datadriven-auto/.project"/>
+        <file path="/datadriven-auto/.classpath"/>
+        <file path="/datadriven-auto/.pmd"/>
+        <javaElement handleIdentifier="=datadriven-auto/src\/test\/java"/>
+        <folder path="/datadriven-auto/test-output"/>
+        <folder path="/datadriven-auto/target"/>
+        <file path="/datadriven-auto/.checkstyle"/>
+        <javaElement handleIdentifier="=datadriven-auto/src\/main\/resources"/>
+        <folder path="/datadriven-auto/src"/>
+        <javaElement handleIdentifier="=datadriven-auto/src\/test\/resources"/>
+        <file path="/datadriven-auto/pom.xml"/>
+    </selectedElements>
+</jardesc>

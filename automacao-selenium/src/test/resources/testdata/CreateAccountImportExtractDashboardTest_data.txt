@@ -1,0 +1,2 @@
+nomeBanco	arquivo	accountName	dataSaldo	editNameAccount	nrAgencia	nrAccount	digit
+HSBC	OFX_ContaBancaria.ofx	HSBC	<HOJE>	Conta teste	1234	012345	0

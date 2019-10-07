@@ -1,0 +1,2 @@
+﻿incomeName	value	bankAccount	expirationDate	incomeCategory	clientProvider	competenceDate	costCenter	fileUpload	rowNumber	date
+Despesa com anex	666,00	Banco do Brasil	<HOJE>	Vendas	Conta Azul LTDA	<HOJE>	Centro 001	Venda.pdf	1	<HOJE>

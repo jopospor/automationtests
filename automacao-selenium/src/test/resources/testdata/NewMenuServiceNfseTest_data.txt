@@ -1,0 +1,27 @@
+topMenu	subCategory	link	breadcrumb
+Vendas	Serviços	Propostas Comerciais	Início › Proposta comercial de serviço
+Vendas	Serviços	Serviços	Início › Serviço
+Vendas	Serviços	Emitir NFS-e	Início › Nota fiscal eletrônica de serviço
+Vendas	Serviços	Contratos de Venda	Início › Contrato de venda
+Vendas	Serviços	Serviços	Início › Serviço
+Vendas	Cadastros 	Clientes 	Início › Cliente
+Vendas	Cadastros 	Vendedores	Início › Vendedor
+Vendas	Cadastros 	Fornecedores	Início › Fornecedor
+Vendas	Cadastros 	Lista de Preços	Início › Lista de preço
+Vendas	Cadastros 	Comissão de Vendedores	Início › Comissão de vendedor 
+Financeiro	Movimentações	Extrato	Início › Financeiro › Extrato
+Financeiro	Movimentações	Contas a Pagar	Início › Financeiro › Contas a pagar
+Financeiro	Movimentações	Contas a Receber	Início › Financeiro › Contas a receber
+Financeiro	Movimentações	Fluxo de Caixa	Início › Financeiro › Fluxo de caixa
+Financeiro	Movimentações	Importar Extrato	Início › Financeiro › Importar extrato
+Financeiro	Organizar	Contas bancárias	Início › Financeiro › Contas bancárias
+Relatórios	Financeiro	Demonstrativo	Início › Relatórios › Demonstrativo
+Relatórios	Financeiro	Análise de despesas	Início › Relatórios › Análise de despesas
+Relatórios	Financeiro	Análise centro de custo	Início › Relatórios › Análise de centro de custo
+Relatórios	Financeiro	Lançamentos financeiros	Início › Relatórios › Lançamentos no caixa
+Relatórios	Vendas	Faturamento por cliente	Início › Relatórios › Faturamento por cliente
+Relatórios	Vendas	Produtos mais vendidos	Início › Relatórios › Produtos mais vendidos
+Relatórios	Vendas	Vendas por vendedor	Início › Relatórios › Vendas por vendedor
+Relatórios	Vendas	Vendas por cliente	Início › Relatórios › Vendas por cliente
+Relatórios	Vendas	Clientes por vendedor	Início › Relatórios › Clientes por vendedor
+Relatórios	Vendas	Clientes	Início › Relatórios › Clientes

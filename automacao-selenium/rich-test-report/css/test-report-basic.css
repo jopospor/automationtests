@@ -1,0 +1,156 @@
+body {
+	color: #333;
+	background-color: #efefff;
+}
+
+#reportTitle {
+	position: relative;
+	background: #e3e3f6;
+	border-bottom: 1px solid #88c;
+	text-align: left;
+	font-size: 11pt;
+	padding: 10px;
+	padding-left: 25px;
+	padding-top: 20px;
+}
+
+#sidebar,#main {
+	float: left;
+}
+
+#sidebar {
+	width: 25%;
+	background: #fff;
+	border: 1px solid #bbf;
+	margin: 12px;
+	padding: 12px;
+	position: relative;
+	overflow: hidden;
+}
+
+#main {
+	width: 65%;
+	background: #fff;
+	border: 1px solid #bbf;
+	margin: 12px;
+	margin-left: 0px;
+	padding: 12px;
+	position: relative;
+}
+/*TEST RESULTS */
+#test-results {
+	width: 0 auto;
+	text-align: center;
+	background: #f1f1f1;
+	margin-bottom: 0px;
+}
+/* BOX */
+#box {
+	padding-bottom: 20px;
+	padding-top: 10px;
+}
+
+.btn-collapse {
+	display: none;
+}
+
+.btn-group {
+	float: right;
+}
+
+#expandCollapseButton {
+	float: right;
+	margin-top: 10px;
+}
+/* Testes Executados (SUITE) */
+#suite {
+	margin-top: 10px;
+	line-height: 5px;
+	margin-right: 10px;
+	text-align: left;
+}
+
+#content-suite {
+	height: auto;
+	margin-bottom: 20px;
+}
+
+.title-menu {
+	margin-top: -15px;
+	margin-left: 20px;
+	font-size: 20px;
+	font-family: Arial;
+}
+
+#results-nav {
+	height: auto;
+	width: 50%;
+}
+
+#results-nav .a{
+	margin: 3px;
+	padding: :3px;
+}
+
+#results-nav .btn-danger {
+	padding: 5px;
+	margin-bottom: 2px;
+	padding-right: 15px;
+	font-size:12px;
+	text-shadow: none;
+	background-color: #da4f49;
+}
+
+#results-nav .btn-success {
+	padding: 5px;
+	margin-bottom: 2px;
+	padding-right: 15px;
+	font-size:12px;
+	text-shadow: none;
+	background-color: #5b5bb7;
+}
+
+#results-nav .btn-unstable {
+	padding: 5px;
+	margin-bottom: 2px;
+	padding-right: 15px;
+	font-size:12px;
+	text-shadow: none;
+	background-color: #f89406;
+}
+
+
+.btn-danger,.btn-success,.btn-unstable,.label-important,.label-success {
+	color: #fff !important;
+}
+
+.test-container .subAccordion {
+	width: 95%;
+}
+
+#steps-header {
+	padding-left: 20px;
+}
+
+.testSuiteStatus {
+	font-size: 12pt;
+}
+
+a {
+	font-family: arial;
+	font-size: 11pt;
+	color: inherit;
+}
+
+h2 {
+	font-size: 14pt;
+	font-family: Helvetica, arial, freesans, clean, sans-serif;
+	color: #3173c4;
+	text-align: left;
+	margin-top: 0;
+}
+
+h3 {
+	font-size: 9pt;
+	font-family: arial;
+}

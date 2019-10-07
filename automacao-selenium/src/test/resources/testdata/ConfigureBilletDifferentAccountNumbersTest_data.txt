@@ -1,0 +1,3 @@
+banco	nome	numberA	numberB	digitV	valor	accountName	nrAgencia	nrConta	valorDoBoleto	carteiras	dsInstrucao1	dsInstrucao2	dsInstrucao3	dsInstrucao4	dsLocalPagamento1	dsLocalPagamento2	isSelected	accountNumber	$result
+Itaú	Itaú	1234	1357	0	100	Itaú	1597	3214	10	1	Linha 01 inserida	Linha 02 inserida	Linha 03 inserida	Linha 04 inserida	 Local pagamento 01	 Local pagamento 02	TRUE	1357-0	TRUE
+Bradesco	Bradesco	1234	1357	0	100	Bradesco	1597	3214	10	1	Linha 01 inserida	Linha 02 inserida	Linha 03 inserida	Linha 04 inserida	 Local pagamento 01	 Local pagamento 02	TRUE	1357-0	TRUE

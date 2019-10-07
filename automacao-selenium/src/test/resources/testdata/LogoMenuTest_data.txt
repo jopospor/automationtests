@@ -1,0 +1,6 @@
+arquivo	mensagem
+Arquivo_com_outro_formato.txt	O arquivo deve ser uma imagem com extenção jpg, png ou gif
+maisdedoismb.jpg	O arquivo deve ser menor que 2 MB
+sabotagem.jpg	Pronto, seus relatórios agora terão a logo da sua empresa!
+imagemteste.png	Pronto, seus relatórios agora terão a logo da sua empresa!
+testegit.gif	Pronto, seus relatórios agora terão a logo da sua empresa!	

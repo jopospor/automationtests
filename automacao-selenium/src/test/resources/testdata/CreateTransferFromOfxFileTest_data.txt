@@ -1,0 +1,2 @@
+﻿conta	arquivo	accoutOrigin
+Bradesco	OFX_ContaBancaria.ofx	Santander

@@ -1,0 +1,6 @@
+expenseName	value	bankAccount	expirationDate	incomeCategory	paid
+Deletar Despesa	112000	Banco do Brasil	<HOJE>	Ajuste Caixa	TRUE
+Deletar Despesa2	126000	Banco do Brasil	<HOJE>	Adiantamento - Funcionários	TRUE
+Deletar Despesa3	122000	Banco do Brasil	<HOJE>	Aluguel	TRUE
+Deletar Despesa4	120500	Banco do Brasil	<HOJE>	Aquisição de Equipamentos	TRUE
+Deletar Despesa5	100	Banco do Brasil	<HOJE>	Assessorias e Associações	TRUE

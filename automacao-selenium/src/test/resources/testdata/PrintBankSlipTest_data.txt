@@ -1,0 +1,2 @@
+incomeName	value	bankAccount	expirationDate	incomeCategory	received	customer	date
+Teste Imprimir Boleto	66600	Banco do Brasil	<HOJE>	Vendas	false	contaazul	<HOJE>

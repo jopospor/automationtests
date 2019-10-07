@@ -1,0 +1,2 @@
+arquivo	nomeBanco
+OFX_ContaBancaria.ofx	Itaú

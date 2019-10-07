@@ -1,0 +1,2 @@
+﻿conta	arquivo	arquivoOFX	accountOriginCredit	valueTransfer	bankAccountDestiny
+Banco do Brasil	OFX_ContaBancaria.ofx	OFX_transferenciaEmLote.ofx	Bradesco	5000	Banco do Brasil

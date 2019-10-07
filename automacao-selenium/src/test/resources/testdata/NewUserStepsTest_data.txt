@@ -1,0 +1,2 @@
+﻿produtosEServicos	emiteNota
+Produtos e Servicos	NF-e e NFS-e

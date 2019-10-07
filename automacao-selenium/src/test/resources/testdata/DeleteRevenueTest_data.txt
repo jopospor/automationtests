@@ -1,0 +1,6 @@
+expenseName	value	bankAccount	expirationDate	incomeCategory	paid
+Deletar Receita	112000	Banco do Brasil	<HOJE>	Ajuste Caixa	TRUE
+Deletar Receita2	126000	Banco do Brasil	<HOJE>	Aplicações Financeiras	TRUE
+Deletar Receita3	122000	Banco do Brasil	<HOJE>	Devolução de adiantamento	TRUE
+Deletar Receita4	120500	Banco do Brasil	<HOJE>	Vendas	TRUE
+Deletar Receita5	100	Banco do Brasil	<HOJE>	Ajuste Caixa	TRUE

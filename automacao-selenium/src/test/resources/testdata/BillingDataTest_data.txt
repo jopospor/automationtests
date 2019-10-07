@@ -1,0 +1,3 @@
+﻿tipoDocumento	documentNumber	name	cep	address	number	complement	neighborhood	nameCity	phoneNumber	e-mail	$resultado
+CPF	53401673130	Billy Watson	99000-340	Rua Street de Ville	 1680	Apto. 42-C	Santo Antônio	Joinville	99-4851-9984	teste@noteste.com	#SUCCESS
+CNPJ	33040981000150	AIG Seguradora S.A.	01503-000	Avenida da Liberdade	 113	BLANK	Liberdade	São Paulo	(11) 3106.0700	fale.conosco@portal.org.br	#SUCCESS

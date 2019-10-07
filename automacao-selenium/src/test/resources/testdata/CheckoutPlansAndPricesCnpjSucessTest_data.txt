@@ -1,0 +1,2 @@
+periodoPlano	cnpjNumber	razaoSocial	cepNumber	numeroCasa	telefone	email	tipoEmpresa	emiteNota	nomeUsuarioBoleto	numTelefone
+T	14.611.382/0001-02	Testes	89225760	62	4796217648	ca@contaazul.com	Qualidade	Sim	TestesQA	4796217648

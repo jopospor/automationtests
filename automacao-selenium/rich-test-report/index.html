@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Relatorio de Testes</title>
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="css/test-report-basic.css" />
+<link rel="stylesheet" type="text/css"
+	href="css/custom-theme/jquery-ui-1.8.20.custom.css" />
+<link rel="stylesheet" type="text/css" href="css/default.css" />
+<link rel="stylesheet" type="text/css"
+	href="tree_view/themes/apple/style.css" />
+<link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+</head>
+<body>
+	<div id="reportTitle"></div>
+	<div id="container">
+		<div id="test-results"></div>
+		<div id="sidebar">
+			<div id="suite">
+				<h2>Testes Executados</h2>
+			</div>
+			<!--Conteúdo do Menu lateral (Tree JS)-->
+			<div id="content-suite">
+				<div id="results-nav">
+					<ul class="menu-treeview"></ul>
+				</div>
+			</div>
+		</div>
+		<!--Div Central, onde são inseridos os Accordions -->
+		<div id="main">
+			<!-- Topo -->
+			<div id="top-content-box">
+				<div class="title-test"></div>
+				<div class="btn-group" id="statusFilter"
+					data-toggle="buttons-checkbox">
+				</div>
+			</div>
+			<span class="clearfix"></span>
+			<!-- div onde o accordion é inserido -->
+			<div id="box"></div>
+		</div>
+	</div>
+
+	<!--  Javascript  -->
+	<script src="js/jquery-1.10.2.min.js" ></script>
+	<script src="js/jquery-ui.min.js" ></script>
+	<script src="js/jquery.multi-open-accordion-1.0.1.js" ></script>
+	<script src="js/jquery-scrollTo-1.4.3.1.js" ></script>
+	<script src="js/bootstrap.min.js" ></script>
+	<script src="test-report.js" ></script>
+	<script type="text/javascript" src="tree_view/js/jquery.hotkeys.js" ></script>
+	<script type="text/javascript" src="tree_view/jquery.jstree.js" ></script>
+	<script type="text/javascript" src="tree_view/js/tree.js" ></script>
+</body>
+</html>

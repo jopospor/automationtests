@@ -1,0 +1,2 @@
+client	saleNumber	saleDate	paymentType	paymentMaturityDate	quantityItens	discountType	discountValue	freightValue	nrSale	valueItem	observation
+Deixando campo do cliente em Branco	10	<HOJE>	À vista	<HOJE+10>	2	%	10	10	30	100	Teste apagando os campos

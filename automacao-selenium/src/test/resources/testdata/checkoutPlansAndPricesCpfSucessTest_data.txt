@@ -1,0 +1,2 @@
+periodoPlano	nomeUsuario	numeroCartao	codSeguranca	mesValidade	anoValidade	cpfNumber	nomeCompleto	cepNumber	numeroCasa	telefone	email
+M	Testes	4111111111111111	159	06	2019	535.332.381-56	Testes Qualidade	89225760	56	4799674569	testes@contaazul.com

@@ -1,0 +1,2 @@
+client	saleNumber	saleDate	paymentType	paymentMaturityDate	quantityItens	item	itemDesc	itemQuantity	itemPrice	discountType	discountValue	freightValue	validateResume
+ContaAzul	Blank	<HOJE>	À vista	<HOJE>	1	Produto Padrao	Descrição Teste	5	5	%	20	5	true

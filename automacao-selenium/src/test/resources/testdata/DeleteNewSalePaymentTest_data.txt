@@ -1,0 +1,2 @@
+client	saleNumber	saleDate	paymentType	paymentMaturityDate	qtd	discountType	discountValue	freightValue	bankAccount	received	typeItem	itemDesc	itemQuantity	itemPrice	validateResume
+ContaAzul	Blank	<HOJE>	À vista	<HOJE>	2	0%	20	5	Cartão de crédito	TRUE	Blank	Areia fina 3.2	2	100	FALSE

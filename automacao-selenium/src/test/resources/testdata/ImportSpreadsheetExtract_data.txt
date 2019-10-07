@@ -1,0 +1,2 @@
+﻿banco	arquivo
+Tesouraria	Planilha_Inportação_Financeiro.xlsx

@@ -1,0 +1,2 @@
+client	saleDate	paymentType	paymentMaturityDate	quantityItens	discountType	discountValue	freightValue	bankAccount	received
+Conta Azul	<HOJE+10>	Parcelado em 12x	<HOJE+30>	2	%	10	10	Cartão de Crédito	true

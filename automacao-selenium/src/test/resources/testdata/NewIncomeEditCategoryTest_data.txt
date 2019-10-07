@@ -1,0 +1,3 @@
+category	getCategory
+Alterando categoria receita	Nova Categoria de Receita
+Nova Categoria de Receita	Alterando categoria receita

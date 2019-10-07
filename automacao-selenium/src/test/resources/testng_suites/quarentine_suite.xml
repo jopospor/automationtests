@@ -1,0 +1,6 @@
+﻿<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite de Testes Ainda Instáveis do ContaAzul"
+	verbose="1" parallel="tests" thread-count="16">
+
+	</test>
+</suite>

@@ -1,0 +1,3 @@
+category	getCategory
+Alterando catégôriã	Nova categoria de Teste
+Nova categoria de Teste	Alterando catégôriã

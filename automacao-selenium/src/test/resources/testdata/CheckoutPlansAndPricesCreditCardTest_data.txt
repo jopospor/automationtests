@@ -1,0 +1,5 @@
+peridoPlano	nomeUsuario	numeroCartao	codSegurança	mesValidade	anoValidade	cupom
+S	Teste	4111111111111111	BLANK	05	2019	fdfs
+A	Teste	BLANK	1455	12	2018	00
+M	BLANK	5105105105105100	1233	12	2019	abc
+T	Teste	BLANK	BLANK	BLANK	BLANK	fsdfsd

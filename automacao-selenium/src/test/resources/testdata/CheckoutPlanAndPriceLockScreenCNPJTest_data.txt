@@ -1,0 +1,6 @@
+cnpjNumber	razaoSocial	cepNumber	numeroCasa	telefone	email	
+59.116.337/0001-01	Testes	89225760	86	4796217545	BLANK	
+01.234.567/8912-34	Testes	BLANK	86	4796217545	Testes@ca.com	
+BLANK	BLANK	89225760	86	BLANK	Testes@ca.com	
+BLANK	BLANK	BLANK	BLANK	BLANK	Testes@ca.com	
+BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	

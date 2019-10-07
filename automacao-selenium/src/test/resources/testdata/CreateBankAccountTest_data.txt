@@ -1,0 +1,26 @@
+﻿banco	nomeConta	saldoInicialConta	dataInicial	$resultado	$nomeDoBanco
+Itaú	Conta Itaú	4	BLANK	Para salvar um saldo inicial, a data do mesmo é obrigatória!	Itaú
+Itaú	BLANK	4	06/08/2013	Preencha corretamente o(s) campo(s) obrigatório(s) em destaque	Itaú
+Itaú	Conta Itaú	4	06/08/2013	#SUCCESS	Itaú
+Banco do Brasil	Conta Banco do Brasil	0	06/08/2013	#SUCCESS	Banco do Brasil
+Bradesco	Conta Bradesco	1	06/08/2013	#SUCCESS	Bradesco
+Caixa Econômica	Conta Caixa Econômica	2	06/08/2013	#SUCCESS	Caixa Econômica
+HSBC	Conta HSBC	3	06/08/2013	#SUCCESS	HSBC
+Santander	Conta Santander	5	06/08/2013	#SUCCESS	Santander
+Banestes	Conta Banestes	7	06/08/2013	#SUCCESS	Banestes
+Banpara	Conta Banpara	8	06/08/2013	#SUCCESS	Banpara
+Banrisul	Conta Banrisul	9	06/08/2013	#SUCCESS	Banrisul
+BCN	Conta BCN	10	06/08/2013	#SUCCESS	BCN
+BankBoston	Conta BankBoston	11	06/08/2013	#SUCCESS	BankBoston
+Banco de Brasília	Conta Banco de Brasília	12	06/08/2013	#SUCCESS	Banco de Brasília
+Banco do Nordeste	Conta Banco do Nordeste	13	06/08/2013	#SUCCESS	Banco do Nordeste
+Mercantil do Brasil	Conta Mercantil do Brasil	17	06/08/2013	#SUCCESS	Mercantil do Brasil
+Real	Conta Real	18	06/08/2013	#SUCCESS	Real
+Safra	Conta Safra	19	06/08/2013	#SUCCESS	Safra
+Sicredi	Conta Sicredi	20	06/08/2013	#SUCCESS	Sicredi
+Sudameris	Conta Sudameris	21	06/08/2013	#SUCCESS	Sudameris
+Unibanco	Conta Unibanco	22	06/08/2013	#SUCCESS	Unibanco
+Viacredi	Conta Viacredi	23	06/08/2013	#SUCCESS	Viacredi
+Sicoob	Conta Sicoob	24	06/08/2013	#SUCCESS	Sicoob
+Outro Banco	Conta Outro Banco	25	06/08/2013	#SUCCESS	Outro Banco
+Não é um Banco (Ex: Conta Dinheiro, Caixinha)	Conta Caixinha	26	06/08/2013	#SUCCESS	BLANK

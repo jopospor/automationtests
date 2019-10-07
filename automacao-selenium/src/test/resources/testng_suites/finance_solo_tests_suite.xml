@@ -1,0 +1,44 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite de teste que precisam ser rodados separados"
+	verbose="1" parallel="tests" thread-count="1">
+	
+	<test name="Importar Clientes">
+		<classes>
+			<parameter name="filePath" value="ImportClientsTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.ImportClientsTest" />
+		</classes>
+	</test>
+	
+	<test name="Adicionar despesa com anexo">
+		<classes>
+			<parameter name="filePath" value="RegisterExpenseWithAttached_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.RegisterExpenseWithAttached" />
+		</classes>
+	</test>
+
+	<test name="Adicionar receita como anexo">
+		<classes>
+			<parameter name="filePath" value="RegisterRevenueWithAttached_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.RegisterRevenueWithAttached" />
+		</classes>
+	</test>
+
+	<test name="Imprimir boleto bancario">
+		<classes>
+			<parameter name="filePath" value="PrintBankSlipTest_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.PrintBankSlipTest" />
+		</classes>
+	</test>
+
+	<test name="Importar planilha extrato">
+		<classes>
+			<parameter name="filePath" value="ImportSpreadsheetExtract_data.txt" />
+			<class
+				name="com.contaazul.auto.selenium.financeiro.testcases.ImportSpreadsheetExtract" />
+		</classes>
+	</test>
+</suite>

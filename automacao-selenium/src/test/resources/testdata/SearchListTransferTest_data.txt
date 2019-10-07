@@ -1,0 +1,2 @@
+﻿accountOriginCredit	accountOriginDestiny	descriptionP	valueTransferP
+Santander	Bradesco	CRÉDITO - CONTA CORRENTE	300050

@@ -1,0 +1,2 @@
+nomeDespesa	valor	contaBanco	categoria	expirationDateExpense	nomeReceita	banco	expirationDate	expirationDatePassada
+TesteD	5.050,00	Bradesco	Ajuste Caixa	<HOJE>	TesteR	Bradesco	<HOJE>	<HOJE-31>

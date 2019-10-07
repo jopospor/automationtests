@@ -1,0 +1,2 @@
+nome	valor	banco	expirationDate	categoria	expirationFuturo
+Teste	5000,50	Banco do Brasil	<HOJE>	Ajuste Caixa	<HOJE+31>

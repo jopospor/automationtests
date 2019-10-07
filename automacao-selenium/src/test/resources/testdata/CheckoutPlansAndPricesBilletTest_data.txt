@@ -1,0 +1,4 @@
+periodoPlano	nomeUsuarioBoleto	email	numTelefone	cupom
+T	Teste	BLANK	BLANK	Fernando Micro Trimestral
+S	Teste	ca@ca.com	BLANK	Fernando Micro Semestral
+A	BLANK	BLANK	47 96217645	Fernando Micro Anual

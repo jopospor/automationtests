@@ -1,0 +1,2 @@
+conta	arquivo
+Banco do Brasil	OFX_ContaBancaria.ofx

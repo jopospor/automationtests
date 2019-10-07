@@ -1,0 +1,2 @@
+valor	expirationDateExpense	expirationDate	nomeDespesa	contaBanco	categoria	nomeReceita	banco	arquivo	
+1.000,50	<HOJE+1>	<HOJE>	Teste Despesa	Bradesco	Aluguel	Teste Receita	Banco do Brasil	OFX_ContaBancaria.ofx
